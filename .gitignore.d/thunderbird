@@ -1,0 +1,7 @@
+*
+!/.gitignore.d
+!/.gitignore.d/thunderbird
+!/.thunderbird
+!/.thunderbird/default.default
+!/.thunderbird/default.default/user.js
+!/.thunderbird/profiles.ini
