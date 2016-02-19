@@ -1,9 +1,5 @@
 *
-!/.gitignore.d
 !/.gitignore.d/thunderbird
-!/.thunderbird
-!/.thunderbird/default.default
-!/.thunderbird/default.default/chrome
 !/.thunderbird/default.default/chrome/userChrome.css
 !/.thunderbird/default.default/chrome/userContent.css
 !/.thunderbird/default.default/user.js
